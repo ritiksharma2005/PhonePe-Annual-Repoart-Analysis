@@ -56,8 +56,7 @@ The goal of this project is to:
 ---
 
 # 💸 Money Transfer Analysis
-
-
+<img width="1115" height="624" alt="Money transactions" src="https://github.com/user-attachments/assets/8d7564b0-f566-4e67-a926-f924d105cfe6" />
 
 ### 📌 Highlights
 
@@ -86,8 +85,7 @@ The goal of this project is to:
 ---
 
 # 🏦 Loan Services Analysis
-
-![Loan Dashboard](Screenshot 2026-02-27 at 11.12.13 PM.png)
+<img width="1117" height="628" alt="Loan" src="https://github.com/user-attachments/assets/0b6afe1b-95c0-4b50-986f-eee5d3927abd" />
 
 ### 📌 Highlights
 
@@ -117,8 +115,7 @@ The goal of this project is to:
 ---
 
 # 🛡️ Insurance Analysis
-
-![Insurance Dashboard](Screenshot 2026-02-27 at 11.12.41 PM.png)
+<img width="1120" height="627" alt="Insurance" src="https://github.com/user-attachments/assets/8298d6a3-1820-4136-adcf-b11e39173c3f" />
 
 ### 📌 Highlights
 
@@ -148,8 +145,8 @@ The goal of this project is to:
 ---
 
 # 📺 Bills & Recharge Analysis
+<img width="1120" height="618" alt="Bill and Recharge" src="https://github.com/user-attachments/assets/0b4524e9-c837-47c7-8c7f-9402941d0f42" />
 
-![Bills Dashboard](Screenshot 2026-02-27 at 11.12.23 PM.png)
 
 ### 📌 Highlights
 
