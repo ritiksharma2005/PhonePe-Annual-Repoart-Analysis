@@ -1,5 +1,6 @@
 ![PhonePe Annual Report Analysis Cover](cover-page.png)
 
+# 📊 PhonePe Annual Report Analysis (2024)
 An interactive **Power BI dashboard project** analyzing PhonePe’s annual transaction data across multiple services including:
 
 - 💸 Money Transfer
