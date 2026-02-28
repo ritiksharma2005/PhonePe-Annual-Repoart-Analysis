@@ -1,6 +1,6 @@
-![PhonePe Annual Report Analysis Cover](cover-page.png)
-
 # 📊 PhonePe Annual Report Analysis (2024)
+<img width="1536" height="1024" alt="cover " src="https://github.com/user-attachments/assets/3074a063-2529-4633-a840-1e6499d7be91" />
+
 An interactive **Power BI dashboard project** analyzing PhonePe’s annual transaction data across multiple services including:
 
 - 💸 Money Transfer
@@ -57,7 +57,7 @@ The goal of this project is to:
 
 # 💸 Money Transfer Analysis
 
-![Money Transfer Dashboard](Screenshot 2026-02-27 at 11.12.32 PM.png)
+
 
 ### 📌 Highlights
 
